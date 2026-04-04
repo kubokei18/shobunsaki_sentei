@@ -1,1 +1,0 @@
-# shobunsaki_sentei
