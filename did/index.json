@@ -1,4 +1,6 @@
-[
+{
+  "note": "令和2年国勢調査（2020年）",
+  "files": [
   "R2_did_01.json",
   "R2_did_02.json",
   "R2_did_03.json",
@@ -46,4 +48,5 @@
   "R2_did_45.json",
   "R2_did_46.json",
   "R2_did_47.json"
-]
+  ]
+}
